@@ -1,0 +1,61 @@
+------------------FACTURA ELECTROCOST-----------------
+________________________________________________________________
+
+1. Nombre: horno ---------------------Potencia: 4.0 kW
+Uso diario: 4 hrs  ------------------- Consumo mensual: 0.48 kW
+
+
+2. Nombre: Lavadora ---------------------Potencia: 23.0 kW
+Uso diario: 4 hrs  ------------------- Consumo mensual: 2.76 kW
+
+
+3. Nombre: Abanico ---------------------Potencia: 14.0 kW
+Uso diario: 8 hrs  ------------------- Consumo mensual: 3.36 kW
+
+
+4. Nombre: Refrigeradora ---------------------Potencia: 48.0 kW
+Uso diario: 24 hrs  ------------------- Consumo mensual: 34.56 kW
+
+
+5. Nombre: Cargador ---------------------Potencia: 21.0 kW
+Uso diario: 9 hrs  ------------------- Consumo mensual: 5.67 kW
+
+
+6. Nombre: Plancha ---------------------Potencia: 33.0 kW
+Uso diario: 1 hrs  ------------------- Consumo mensual: 0.99 kW
+
+
+7. Nombre: Televisor ---------------------Potencia: 55.0 kW
+Uso diario: 4 hrs  ------------------- Consumo mensual: 6.6 kW
+
+
+8. Nombre: Equipo de sonido ---------------------Potencia: 35.0 kW
+Uso diario: 8 hrs  ------------------- Consumo mensual: 8.4 kW
+
+
+9. Nombre: Aire acondicionado ---------------------Potencia: 76.0 kW
+Uso diario: 24 hrs  ------------------- Consumo mensual: 54.72 kW
+
+
+10. Nombre: DVD ---------------------Potencia: 32.0 kW
+Uso diario: 3 hrs  ------------------- Consumo mensual: 2.88 kW
+
+
+11. Nombre: PC ---------------------Potencia: 44.0 kW
+Uso diario: 6 hrs  ------------------- Consumo mensual: 7.92 kW
+
+
+12. Nombre: Tablet xD ---------------------Potencia: 55.0 kW
+Uso diario: 9 hrs  ------------------- Consumo mensual: 14.85 kW
+
+
+13. Nombre: Airpods ---------------------Potencia: 12.0 kW
+Uso diario: 8 hrs  ------------------- Consumo mensual: 2.88 kW
+
+
+14. Nombre: Licuadora ---------------------Potencia: 21.0 kW
+Uso diario: 1 hrs  ------------------- Consumo mensual: 0.63 kW
+
+CONSUMO TOTAL DEL MES DE Diciembre: 146.7
+________________________________________________________________
+
